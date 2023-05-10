@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "errorMessage": "",
+  "statusCode": 200,
+  "data": {
+    "page_info": {
+      "page": 1,
+      "page_size": 1,
+      "total_items": 10
+    },
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Tacos de carne asada",
+        "imageurl": "https://www.example.com/images/tacos.jpg",
+        "ingredients": [
+          "Tortillas de maíz",
+          "Carne asada",
+          "Cebolla",
+          "Cilantro",
+          "Limón",
+          "Salsa"
+        ],
+        "description": "Los tacos de carne asada son un platillo típico de la cocina mexicana...",
+        "latitude": 19.432608,
+        "longitude": -99.133209
+      },
+      {
+        "id": 2,
+        "name": "Guacamole",
+        "imageurl": "https://www.example.com/images/guacamole.jpg",
+        "ingredients": [
+          "Aguacate",
+          "Tomate",
+          "Cebolla",
+          "Cilantro",
+          "Limón",
+          "Sal"
+        ],
+        "description": "El guacamole es una salsa típica de la cocina mexicana...",
+        "latitude": 20.659698,
+        "longitude": -103.349609
+      },
+      {
+        "id": 3,
+        "name": "Enchiladas verdes",
+        "imageurl": "https://www.example.com/images/enchiladas.jpg",
+        "ingredients": [
+          "Tortillas de maíz",
+          "Pollo",
+          "Crema",
+          "Queso fresco",
+          "Salsa verde",
+          "Cebolla",
+          "Cilantro"
+        ],
+        "description": "Las enchiladas verdes son un platillo típico de la cocina mexicana...",
+        "latitude": 25.686614,
+        "longitude": -100.316113
+      }
+    ]
+  }
+}
