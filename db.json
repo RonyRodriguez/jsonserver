@@ -1,0 +1,175 @@
+{
+  "success": true,
+  "errorMessage": "",
+  "statusCode": 200,
+  "data": {
+    "page_info": {
+      "page": 1,
+      "page_size": 1,
+      "total_items": 10
+    },
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Tacos de carne asada",
+        "imageurl": "https://www.example.com/images/tacos.jpg",
+        "ingredients": [
+          "Tortillas de maíz",
+          "Carne asada",
+          "Cebolla",
+          "Cilantro",
+          "Limón",
+          "Salsa"
+        ],
+        "description": "Los tacos de carne asada son un platillo típico de la cocina mexicana...",
+        "latitude": 19.432608,
+        "longitude": -99.133209
+      },
+      {
+        "id": 2,
+        "name": "Guacamole",
+        "imageurl": "https://www.example.com/images/guacamole.jpg",
+        "ingredients": [
+          "Aguacate",
+          "Tomate",
+          "Cebolla",
+          "Cilantro",
+          "Limón",
+          "Sal"
+        ],
+        "description": "El guacamole es una salsa típica de la cocina mexicana...",
+        "latitude": 20.659698,
+        "longitude": -103.349609
+      },
+      {
+        "id": 3,
+        "name": "Enchiladas verdes",
+        "imageurl": "https://www.example.com/images/enchiladas.jpg",
+        "ingredients": [
+          "Tortillas de maíz",
+          "Pollo",
+          "Crema",
+          "Queso fresco",
+          "Salsa verde",
+          "Cebolla",
+          "Cilantro"
+        ],
+        "description": "Las enchiladas verdes son un platillo típico de la cocina mexicana...",
+        "latitude": 25.686614,
+        "longitude": -100.316113
+      },
+      {
+        "id": 4,
+        "name": "Ceviche",
+        "imageurl": "https://www.example.com/images/ceviche.jpg",
+        "ingredients": [
+          "Pescado",
+          "Cebolla",
+          "Cilantro",
+          "Jugo de limón",
+          "Aguacate",
+          "Tomate"
+        ],
+        "description": "El ceviche es un platillo típico de la cocina latinoamericana...",
+        "latitude": -11.929917,
+        "longitude": -77.046218
+      },
+      {
+        "id": 5,
+        "name": "Arepa",
+        "imageurl": "https://www.example.com/images/arepa.jpg",
+        "ingredients": [
+          "Harina de maíz",
+          "Agua",
+          "Sal",
+          "Queso",
+          "Carne mechada",
+          "Aguacate"
+        ],
+        "description": "La arepa es un platillo típico de la cocina colombiana...",
+        "latitude": 4.570868,
+        "longitude": -74.297333
+      },
+      {
+        "id": 6,
+        "name": "Feijoada",
+        "imageurl": "https://www.example.com/images/feijoada.jpg",
+        "ingredients": [
+          "Frijoles negros",
+          "Carne de cerdo",
+          "Tocino",
+          "Chorizo",
+          "Arroz",
+          "Naranja",
+          "Cebolla"
+        ],
+        "description": "La feijoada es un platillo típico de la cocina brasileña...",
+        "latitude": -23.55052,
+        "longitude": -46.633308
+      },
+      {
+        "id": 7,
+        "name": "Pupusas",
+        "imageurl": "https://www.example.com/images/pupusas.jpg",
+        "ingredients": [
+          "Maíz",
+          "Queso",
+          "Frijoles",
+          "Chicharrón",
+          "Salsa",
+          "Cebolla"
+        ],
+        "description": "Las pupusas son un platillo típico de la cocina salvadoreña...",
+        "latitude": 13.69294,
+        "longitude": -89.218191
+      },
+      {
+        "id": 8,
+        "name": "Arepas de choclo",
+        "imageurl": "https://www.example.com/images/arepas-choclo.jpg",
+        "ingredients": [
+          "Choclo",
+          "Queso",
+          "Mantequilla",
+          "Sal"
+        ],
+        "description": "Las arepas de choclo son un platillo típico de la cocina colombiana...",
+        "latitude": 6.244203,
+        "longitude": -75.581212
+      },
+      {
+        "id": 9,
+        "name": "Causa rellena",
+        "imageurl": "https://www.example.com/images/causa.jpg",
+        "ingredients": [
+          "Papa amarilla",
+          "Limón",
+          "Ají amarillo",
+          "Aceite de oliva",
+          "Palta",
+          "Atún"
+        ],
+        "description": "La causa rellena es un platillo típico de la cocina peruana...",
+        "latitude": -12.046373,
+        "longitude": -77.042755
+      },
+      {
+        "id": 10,
+        "name": "Chiles en nogada",
+        "imageurl": "https://www.example.com/images/chiles-nogada.jpg",
+        "ingredients": [
+          "Chiles poblanos",
+          "Carne de cerdo",
+          "Frutas cristalizadas",
+          "Nuez",
+          "Queso de cabra",
+          "Crema",
+          "Granada"
+        ],
+        "description": "Los chiles en nogada son un platillo típico de la cocina mexicana...",
+        "latitude": 19.434799,
+        "longitude": -99.13911
+      }
+    ]
+  }
+}
